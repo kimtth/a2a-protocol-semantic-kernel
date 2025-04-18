@@ -2,6 +2,10 @@
 
 This project implements the A2A (Agent-to-Agent) 🤖🤝🤖 protocol using Microsoft's Semantic Kernel framework. The A2A protocol, proposed by Google, is designed as a communication protocol between AI agents.
 
+> [!IMPORTANT]  
+> 🔹The official sample using Semantic Kernel was released one day after this repository.  
+> 🔹https://github.com/google/A2A > samples/python/agents/semantickernel/agent.py
+
 ## Project Structure
 
 ```
